@@ -239,8 +239,9 @@ a:active{
     align-items: center;
     gap: 30px;
     margin-bottom: 20px;
+
 	
-	
+	grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
 	padding: 25px;
 
     background-color: #1e293b;
@@ -260,8 +261,9 @@ a:active{
     align-items: center;
     gap: 30px;
     margin-bottom: 20px;
+
 	
-	
+	grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
 	padding: 25px;
 
     background-color: #1e293b;
